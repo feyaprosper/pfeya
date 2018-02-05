@@ -11,7 +11,7 @@ A film director is a person who directs the making of a film. A film director
 
 ## David Lynch
 
-![davidlynch] (/pfeya/media/lynch.jpg)
+![davidlynch] (/media/lynch.jpg)
 
 
 ### Biography
@@ -32,7 +32,7 @@ Turning further towards surrealist filmmaking, three of his subsequent films ope
 
 ## David Lynch
 
-![davidfincher] (/pfeya/media/fincher.jpg)
+![davidfincher] (/media/fincher.jpg)
 
 
 ### Biography
@@ -53,7 +53,7 @@ In August 2015, budget disputes between Fincher and the network halted productio
 
 ## Martin Scorsese
 
-![martinscorsese] (/pfeya/media/scorsese.jpg)
+![martinscorsese] (/media/scorsese.jpg)
 
 
 ## Biography
