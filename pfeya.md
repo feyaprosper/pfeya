@@ -53,7 +53,7 @@ In August 2015, budget disputes between Fincher and the network halted productio
 
 ## Martin Scorsese
 
-![martinscorsese](/scorsese.jpg)
+![martinscorsese](/media/scorsese.jpg)
 
 ## Biography
 
